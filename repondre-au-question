@@ -1,0 +1,9 @@
+Un GIT est un système de controle de version open source, GIT Hub est une application qui utilise GIT.
+
+C'est un espace de stockage et de gestion de code source.
+
+Un commit est une operation locale et n'affecte pas le depot distant, un push sert a deposer un depot local en depot central et un pull est utilisée pour faire un fetch du contenu d'un dépôt distant et pour le télécharger, puis pour mettre à jour immédiatement le dépôt local qui correspond à ce contenu
+
+un fichier README sert a communiquer les attentes de votre projet et vous aider a gerer les contributions.
+
+on fait un git clone
